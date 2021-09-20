@@ -556,3 +556,8 @@ ggplot(data = SH, aes(x = X, y = Y)) +
   geom_point(color='blue') +
   geom_line(color='red',data = SH, aes(x=X, y=pred))
 
+#####Answer###
+
+# Above are the models which we have created for predicting the salary hike using the experience of the various employees.
+# From the data shown in  attached Excel datasheet we can conclude that the Last mode is the best model with which we have got the best results and the highest R-Squared value so far
+# We are going to use the Last Model 13 for the required predictions.
